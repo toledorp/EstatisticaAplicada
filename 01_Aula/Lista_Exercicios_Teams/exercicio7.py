@@ -1,5 +1,6 @@
 import pandas as pd
-c
+import numpy as np
+
 
 # Define nomes para os alunos
 nomes = ["Ana Silva", "Bruno Costa", "Carlos Santos", "Diana Oliveira", "Eduardo Lima",
